@@ -55,5 +55,5 @@ morikawa@morimori.com
 
 ## What is your OUTPUT?
 
-私の OUTPUT は xxx です。  
+私の OUTPUT は 「The Art of xxx」 です。  
 morikawa@morimori.com
